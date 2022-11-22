@@ -1,13 +1,15 @@
 @font-face {
-    font-family: SourceSansPro-Bold;
-    src: url(assets/fonts/SourceSansPro-Bold.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: 'SourceSansPro-Regular';
-    src: url(assets/fonts/SourceSansPro-Regular.ttf) format("truetype");
-  }
-  @font-face {
-    font-family: 'SourceSansPro-SemiBold';
-    src: url(assets/fonts/SourceSansPro-SemiBold.ttf) format("truetype");
-  }
-  
+  font-family: 'SourceSansPro-Bold';
+  src: url(https://cdn.jsdelivr.net/gh/anandbadanahatti19/anand-assignment-epsilon@main/src/assets//fonts/SourceSansPro-Bold.ttf)
+    format('truetype');
+}
+@font-face {
+  font-family: 'SourceSansPro-Regular';
+  src: url(https://cdn.jsdelivr.net/gh/anandbadanahatti19/anand-assignment-epsilon@main/src/assets//fonts/SourceSansPro-Regular.ttf)
+    format('truetype');
+}
+@font-face {
+  font-family: 'SourceSansPro-SemiBold';
+  src: url(https://cdn.jsdelivr.net/gh/anandbadanahatti19/anand-assignment-epsilon@main/src/assets//fonts/SourceSansPro-SemiBold.ttf)
+    format('truetype');
+}
